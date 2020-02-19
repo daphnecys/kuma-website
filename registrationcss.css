@@ -12,8 +12,7 @@
 }
 footer{
   margin-top:150px;
-  margin-left:-250px;
-}
+  }
 h1,h2,p{
 font-family: 'Roboto Slab', serif;
 }
@@ -64,4 +63,8 @@ font-family: 'Roboto Slab', serif;
 .back{
   margin-top: 150px;
   margin-left: -170px;
+}
+.c{
+  margin-left: 1300px;
+  margin-top:-50px;  
 }
