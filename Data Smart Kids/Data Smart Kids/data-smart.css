@@ -1,0 +1,73 @@
+.top{
+  margin: 15px 60px 0px 60px;
+  padding: 15px 80px 0px 80px;
+}
+.top a{
+color: #1b1b1b;
+font-weight: normal;
+font-size: 20px;
+font-family: "Work Sans", sans-serif;
+}
+h5{
+  font-size: 70px;
+  font-weight: normal;
+  font-family: "Work Sans", sans-serif;
+}
+span{
+  font-size: 30px;
+  font-weight: lighter;
+  font-family: 'Source Sans Pro', arial, sans-serif;
+}
+h2{
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Work Sans", sans-serif;
+}
+h1,h3,h4,p{
+  font-family: 'Source Sans Pro', arial, sans-serif;
+}
+
+h4{
+  display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h6{
+  font-size: 18px;
+  text-align: center;
+}
+.container p{
+  font-size: 18px;
+}
+.zz{
+    margin-left: 200px;
+}
+a:link {
+    color: black;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:black;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: purple;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+ul{
+  font-family: 'Source Sans Pro', arial, sans-serif;
+}
+
+  .cp p{
+    text-align: left;
+    font-weight: lighter;
+  }
