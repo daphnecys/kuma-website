@@ -1,0 +1,89 @@
+.top{
+    margin: 15px 60px 0px 60px;
+    padding: 15px 80px 0px 80px;
+}
+.top a{
+  color: #1b1b1b;
+  font-weight: normal;
+  font-size: 20px;
+  font-family: "Work Sans", sans-serif;
+}
+a:hover {
+  color: #00bd00b2;
+}
+h1{
+  font-weight: 900;
+  font-family: "Work Sans", sans-serif;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 22px;
+  letter-spacing: 1px;
+  font-family: "Work Sans", sans-serif;
+}
+
+h1,h2,h3,p{
+    text-align: center;
+    color: #1b1b1b;
+}
+h1{
+  font-size: 38px;
+  font-family: "Work Sans", sans-serif;
+}
+
+p{
+  color: #1b1b1b;
+  font-size: 18px;
+  font-family: 'Source Sans Pro', arial, sans-serif;
+}
+.container h4{
+  text-align: left;
+  letter-spacing: 3px;
+  color: #1b1b1b;
+  font-size: 22px;
+  font-family: 'Source Sans Pro', arial, sans-serif;
+}
+.col-sm-6 p{
+  text-align: left;
+}
+.col-md-6 p{
+  text-align: left;
+}
+
+/**BUTTON**/
+button{
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  outline: none;
+  text-decoration: none;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  height: 55px;
+  width: 250px;
+  opacity: 1;
+  background-color: #ffffff;
+  border: 3px solid #1b1b1b;
+  color: #1b1b1b;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 3px;
+}
+button:hover {
+  color: white;
+  background-color: #1b1b1b;
+}
+
+label{
+  font-weight: lighter;
+}
+.cp p{
+  text-align: left;
+  font-weight: lighter;
+}
